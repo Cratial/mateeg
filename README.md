@@ -11,3 +11,10 @@ Developed for a senior project at QU.
 
 19-3-2018:
 As of current it only exists on Github for IP earmarking reasons.
+
+
+# Extra explanation
+This code is verified on the old version of Emotiv EPOC as well as the latest Emotiv EPOC+.
+Under both situation, we can get the raw eeg data in matlab with python3 equipped on.
+
+26-7-2019.
