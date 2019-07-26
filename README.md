@@ -14,7 +14,8 @@ As of current it only exists on Github for IP earmarking reasons.
 
 
 # Extra explanation
-This code is verified on the old version of Emotiv EPOC as well as the latest Emotiv EPOC+.
+Thest code is verified on the old version of Emotiv EPOC as well as the latest Emotiv EPOC+ on WINDOWS OS.
+
 Under both situation, we can get the raw eeg data in matlab with python3 equipped on.
 
 26-7-2019.
